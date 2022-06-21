@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/93948054/174906211-57f36a8d-c5bc-46d8-88f0-7503da9d7e5a.png)
+
+
 <!--
 **Alberto-Ibarra/Alberto-Ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
