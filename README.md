@@ -1,4 +1,4 @@
-<!-- ![image](https://user-images.githubusercontent.com/93948054/174906211-57f36a8d-c5bc-46d8-88f0-7503da9d7e5a.png)
+![image](https://user-images.githubusercontent.com/93948054/174906211-57f36a8d-c5bc-46d8-88f0-7503da9d7e5a.png)
 
 I'm a passionate Full Stack Developer from La Puente, California!
 
@@ -20,11 +20,11 @@ I'm a passionate Full Stack Developer from La Puente, California!
 ![image](https://camo.githubusercontent.com/32da59e37f6b4b17041b9391373593c25191e76d5d056d913155e630289b0ad0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d677261793f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b)
 ![image](https://camo.githubusercontent.com/740113076ccc67ba285c558d2a537ee73d30abeec6ddd9a1c0fecdba40147b14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4444384130303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c)
 ![image](https://camo.githubusercontent.com/68267b657d98f79e1ab75d4f8e072f3ceff262bcdc30a089abc937a66162280e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4533344138363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661)
-![image](https://camo.githubusercontent.com/a0e7689f8590b2d810f63004b5277e22bbd22bb4c9102575f90f816589531ba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3136364533413f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67) -->
+![image](https://camo.githubusercontent.com/a0e7689f8590b2d810f63004b5277e22bbd22bb4c9102575f90f816589531ba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3136364533413f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67)
 
 
 
-<!--
+
 **Alberto-Ibarra/Alberto-Ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
